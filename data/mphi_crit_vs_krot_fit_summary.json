@@ -1,0 +1,17 @@
+{
+  "parabola_coeffs": {
+    "a": -1.0248979591836884,
+    "b": 0.6621428571428658,
+    "c": 1.8832653061224494,
+    "form": "m_phi_crit(k) = a*k^2 + b*k + c"
+  },
+  "k_peak": 0.32302867383512496,
+  "m_phi_peak": 1.9902108706385797,
+  "R2": 0.7963485275831748,
+  "stats": {
+    "mean_m_phi_crit": 1.9562755102040816,
+    "std_m_phi_crit": 0.0393060509249778,
+    "num_points": 7
+  },
+  "source_file": "mphi_crit_vs_krot.json"
+}
